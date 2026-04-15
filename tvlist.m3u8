@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="TV",TVB 翡翠台
 http://r.jdshipin.com/n90gt
 #EXTINF:-1 group-title="TV",TVB 翡翠台
-http://r.jdshipin.com/GeWkr
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 #EXTINF:-1 group-title="TV",TVB 明珠台
 http://r.jdshipin.com/ZQ4N
 #EXTINF:-1 group-title="TV",TVB 明珠台
@@ -28,8 +28,6 @@ https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 group-title="TV",HOY-78 (HOY 資訊台)
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="HOYTV.hk",HOY-720 (MotorVision)
-https://edge.media.seaovers.live/mediasuite-live/cp0004/408UNZ5E/mvg/mv/mv_1080p.m3u8?aid=x&bcpf=6&bpkio_serviceid=856b503e276cc491293fe55b87420bae&bpkio_sessionid=10e3d7a231-c61224bb-d06d-459b-93a7-38d6aaf62de8&category=all&correlator=1774495497661&dtype=pc&vtype=live&channel=720&platform=web&cid=x&hdid=b6fcc693b699f3a86fd042492c1f8ece69221d8321e8e3caf8ec54827a95b180&env=vp&gdfp_req=1&output=xml_vast4&idtype=x&plcmt=1&vpa=auto&vpmute=0&platform_lang=zh_hk&uid2=x&frm=1&hl=zh&iu=%2F21623123519%2Fhoytv.pc.web.prod%2F720%2Flive&ppid=35f7c229-6623-4404-b27a-95870dcc4408&sdki=sdk_web_v445&sdkv=h.3.707.0&sz=1280x720&url=https%3A%2F%2Fhoy.tv&vid=720&cust_params=adtype%3Dmr%26dtype%3Dpc%26vtype%3Dlive%26channel%3D720%26platform%3Dweb%26cid%3Dx%26hdid%3Db6fcc693b699f3a86fd042492c1f8ece69221d8321e8e3caf8ec54827a95b180%26env%3Dvp%26gdfp_req%3D1%26output%3Dxml_vast4%26idtype%3Dx%26plcmt%3D1%26vpa%3Dauto%26vpmute%3D0%26platform_lang%3Dzh_hk%26uid2%3Dx&mm_sp
 
 #EXTINF:-1 group-title="TV",港台電視31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
