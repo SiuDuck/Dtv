@@ -1,9 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="TV",TVB 翡翠台
-http://r.jdshipin.com/n90gt
+http://r.jdshipin.com/GeWKr
+#EXTINF:-1 group-title="TV",TVB 翡翠台
+http://r.jdshipin.com/qCIQf
 #EXTINF:-1 group-title="TV",TVB 翡翠台
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+#EXTINF:-1 group-title="TV",TVB 翡翠台 (4K)
+http://r.jdshipin.com/n90gt
 #EXTINF:-1 group-title="TV",TVB 明珠台
 http://r.jdshipin.com/ZQ4N
 #EXTINF:-1 group-title="TV",TVB 明珠台
@@ -14,8 +18,6 @@ http://r.jdshipin.com/CkuBd
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 #EXTINF:-1 group-title="TV",TVB Plus
 http://r.jdshipin.com/Nr5jq
-#EXTINF:-1 group-title="TV",TVB Plus
-http://r.jdshipin.com/ndGgS
 #EXTINF:-1 group-title="TV",TVB 黃金華劇台
 http://r.jdshipin.com/62WM7
 
